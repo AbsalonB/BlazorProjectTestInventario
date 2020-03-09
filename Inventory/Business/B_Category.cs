@@ -17,7 +17,7 @@ namespace Business
             }
         }
 
-        public void CreateCategory(CategoryEntity oCategory)
+        public static void CreateCategory(CategoryEntity oCategory)
         {
             using (var db = new InventarioContext())
             {
@@ -26,12 +26,19 @@ namespace Business
             }
         }
 
-        public void UpdateCategory(CategoryEntity oCategory)
+        public static void UpdateCategory(CategoryEntity oCategory)
         {
             using (var db = new InventarioContext())
             {
                 db.Categories.Update(oCategory);
                 db.SaveChanges();
+            }
+        }
+        public static CategoryEntity CategoryById(string ID)
+        {
+            using (var db= new InventarioContext())
+            {
+                return db.Categories.Where(c => c.CategoryId == ID).FirstOrDefault();
             }
         }
     }

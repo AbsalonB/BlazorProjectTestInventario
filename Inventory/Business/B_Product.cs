@@ -15,8 +15,7 @@ namespace Business
             {
                 return db.Products.ToList();
             }
-        }
-
+        } 
         public static void CreateProduct(ProductEntity oProduct)
         {
             using (var db = new InventarioContext())
@@ -30,7 +29,7 @@ namespace Business
             using (var db = new InventarioContext())
             {
                 db.Products.Update(oProduct);
-                db.SaveChangesAsync();
+                db.SaveChanges();
             }
         }
         public static ProductEntity ProductByid(string id)

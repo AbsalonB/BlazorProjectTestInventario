@@ -93,6 +93,34 @@ using Inventory.Components.Products;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 13 "C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Inventory\_Imports.razor"
+using Inventory.Components.Categories;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Inventory\_Imports.razor"
+using Inventory.Components.Warehouses;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Inventory\_Imports.razor"
+using Inventory.Components.Storages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Inventory\_Imports.razor"
+using Inventory.Components.InOuts;
+
+#line default
+#line hidden
+#nullable disable
     public partial class Form002 : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
