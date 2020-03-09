@@ -6,3 +6,4 @@ Testing a Blazor Project with EntityFramework Core
 - SQL Server Express 2016
 - Blazor
 - .NET Core 3.2 
+- Code First Database
