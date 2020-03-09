@@ -1,0 +1,13 @@
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\BamopetLP\Desktop\Proyectos\csharp\1. Blazor App Fundamental Platzi\Inventory\Business\obj\Debug\netcoreapp3.1\Business.pdb

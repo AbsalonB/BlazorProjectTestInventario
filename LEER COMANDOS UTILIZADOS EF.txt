@@ -1,0 +1,10 @@
+Comando para crear migración entity desde consola
+Debe existir el paquete Tools desde el nuget manager de entityframeworkcore
+consola= add-migration NOMBRE_MIGRACION
+
+Con este comando se ejecuta los comandos desde el código con la info creada
+,esta migración no incluye los datos
+consola=update-database
+
+Este comando ejecuta una migración en especifico
+consola= update-database NOMBRE_MIGRACION
